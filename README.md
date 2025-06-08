@@ -25,4 +25,4 @@ Currently learning C++, Linux and development fundamentals.
 
 ---
 
->Thoughtfully built by Ishan Falak
+>Thoughtfully built by Ishan
