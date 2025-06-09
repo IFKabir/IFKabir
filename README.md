@@ -38,7 +38,7 @@ Currently learning **C++**, **Linux**, and **development fundamentals**.
 > A peek into my Linux setup using `neofetch` 🌌
 
 <p align="center">
-  <img src="assets/neofetch.png" width="600" alt="Neofetch Screenshot"/>
+  <img src="assets/neofetch1.png" width="600" alt="Neofetch Screenshot"/>
 </p>
 
 ---
