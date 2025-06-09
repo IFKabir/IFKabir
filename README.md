@@ -17,6 +17,7 @@ Currently learning **C++**, **Linux**, and **development fundamentals**.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![JetBrains](https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white)
+[![LeetCode](https://img.shields.io/badge/LeetCode-F79F1B?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/IFKabir/)
 ![Terminal](https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=windows-terminal&logoColor=white)
 
 ---
