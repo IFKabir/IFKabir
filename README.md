@@ -1,6 +1,6 @@
 <!-- Dark Mode ASCII Art Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&width=435&lines=Hi+there%2C+I'm+Ishan+Falak+(IFKabir)!;CS+Student+%7C+Linux+User+%7C+C%2B%2B+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&width=435&lines=Hi+there%2C+I'm+Ishan+Falak+(IFKabir)!;CS+Student+%7C+Linux+User+%7C+C%2B%2B+Dev" alt="Typing SVG" />
 </p>
 
 ---
