@@ -1,11 +1,11 @@
 <!-- Dark Mode ASCII Art Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&width=435&lines=Hi+there%2C+I'm+Ishan+Falak+(IFKabir)!;CS+Student+%7C+Linux+User+%7C+C%2B%2B+Dev" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&width=435&lines=Hi+there%2C+I'm+Ishan+Falak+(IFKabir)!;CSE+Student+%7C+Linux+User+%7C+C%2B%2B+Dev" alt="Typing SVG" />
 </p>
 
 ---
 
-🎓 I'm a Computer Science student at **RGIPT**, passionate about building and exploring technology.  
+🎓 I'm a Computer Science & Engineering student at **RGIPT**, passionate about building and exploring technology.  
 Currently learning **C++**, **Linux**, and **development fundamentals**.
 
 ---
@@ -24,7 +24,7 @@ Currently learning **C++**, **Linux**, and **development fundamentals**.
 ## 🌱 Currently Working On
 
 - Learning advanced Linux and systems programming  
-- Building personal CLI tools and automation scripts  
+- Strengthening DSA & C++  
 - Exploring open-source contribution  
 - Practicing CTFs
 
