@@ -1,7 +1,12 @@
-<!-- Dark Mode ASCII Art Banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&width=435&lines=Hi+there%2C+I'm+Ishan+(IFKabir)!;CSE+Student+%7C+Linux+User+%7C+C%2B%2B+Dev" alt="Typing SVG" />
-</p>
+<pre style="font-family: monospace; color: #00FF00; background-color: #000000;">
+  <span style="color: #FFFF00;">user</span>@<span style="color: #00FFFF;">ishan</span>:<span style="color: #0000FF;">~</span>$ <span style="color: #FFFFFF;">ls -l</span>
+  total 4
+  drwxr-xr-x 2 user user 4096 Oct 26 10:00 <span style="color: #00FFFF;">Projects</span>
+  <span style="color: #FFFF00;">user</span>@<span style="color: #00FFFF;">ishan</span>:<span style="color: #0000FF;">~</span>$ <span style="color: #FFFFFF;">cd Projects</span>
+  <span style="color: #FFFF00;">user</span>@<span style="color: #00FFFF;">ishan</span>:<span style="color: #0000FF;">~/Projects</span>$ <span style="color: #FFFFFF;">./my_program</span>
+  Hello, World!
+  <span style="color: #FFFF00;">user</span>@<span style="color: #00FFFF;">ishan</span>:<span style="color: #0000FF;">~/Projects</span>$
+</pre>
 
 ---
 
