@@ -17,10 +17,15 @@ Currently learning **C++**, **Linux**, and **development fundamentals**.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![JetBrains](https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white)
+![Terminal](https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=windows-terminal&logoColor=white)
+
+---
+
+## 🚀 Practice Grounds
+
 [![LeetCode](https://img.shields.io/badge/LeetCode-F79F1B?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/IFKabir/)
 ![Hack The Box](https://img.shields.io/badge/HackTheBox-6AC259?style=for-the-badge&logo=hackthebox&logoColor=white)
 ![OverTheWire Bandit](https://img.shields.io/badge/OverTheWire-Bandit-6F42C1?style=for-the-badge&logo=overwatch&logoColor=white)
-![Terminal](https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=windows-terminal&logoColor=white)
 
 ---
 
@@ -35,7 +40,7 @@ Currently learning **C++**, **Linux**, and **development fundamentals**.
 
 ## 🖥️ Terminal Preview
 
-> A peek into my Linux setup using `neofetch` 🌌
+> A peek into my Linux setup using neofetch 🌌
 
 <p align="center">
   <img src="assets/neofetch1.png" width="600" alt="Neofetch Screenshot"/>
