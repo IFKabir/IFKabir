@@ -1,6 +1,36 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Ishan+(IFKabir)!;Linux+%26+C%2B%2B+User;Student+by+Degree%2C+Learning+Tech+by+Choice" alt="Typing SVG" />
-</p>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" role="img" aria-label="Ishan (IFKabir) — Linux & C++ • Learning by choice">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#00F7FF"/>
+      <stop offset="100%" stop-color="#6B73FF"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="8" stdDeviation="10" flood-opacity="0.25"/>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="100%" height="100%" fill="url(#g)"/>
+  <rect x="8" y="8" width="1184" height="244" rx="18" ry="18" fill="rgba(255,255,255,0.10)" />
+
+  <!-- Headline — calligraphic/cursive stack (uses local fonts as GitHub won't load external fonts) -->
+  <g filter="url(#shadow)">
+    <text x="50%" y="50%" text-anchor="middle"
+          font-family="Segoe Script, Brush Script MT, Lucida Handwriting, Pacifico, Dancing Script, cursive"
+          font-size="66" font-weight="500" fill="#ffffff"
+          style="paint-order: stroke; stroke: rgba(10,10,10,0.35); stroke-width: 2;">
+      Ishan (IFKabir)
+    </text>
+
+    <!-- Subheadline -->
+    <text x="50%" y="74%" text-anchor="middle"
+          font-family="Inter, Segoe UI, Roboto, Helvetica, Arial, sans-serif"
+          font-size="22" fill="#0A0A0A" opacity="0.92">
+      Linux &amp; C++ • Student by degree, learning tech by choice
+    </text>
+  </g>
+</svg>
 
 
 ---
