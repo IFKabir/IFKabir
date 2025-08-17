@@ -13,13 +13,9 @@ Currently learning **C++**, **Linux**, and **development fundamentals**.
 ## 🔧 Tech Stack & Tools
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![JetBrains](https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white)
 ![Terminal](https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=windows-terminal&logoColor=white)
 
 ---
@@ -27,7 +23,7 @@ Currently learning **C++**, **Linux**, and **development fundamentals**.
 ## 🚀 Practice Grounds
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-F79F1B?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/IFKabir/)
-![Hack The Box](https://img.shields.io/badge/HackTheBox-6AC259?style=for-the-badge&logo=hackthebox&logoColor=white)
+[![Hack The Box](https://img.shields.io/badge/HackTheBox-6AC259?style=for-the-badge&logo=hackthebox&logoColor=white)](https://codeforces.com/profile/ifkabir)
 ![OverTheWire Bandit](https://img.shields.io/badge/OverTheWire-Bandit-6F42C1?style=for-the-badge&logo=overwatch&logoColor=white)
 
 ---
