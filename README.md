@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=007ACC&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Ishan+(IFKabir);Computer+Science+Student+%7C+C%2B%2B+%26+Linux+Learner;Exploring+Systems+%26+Open+Source)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=41FDFE&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Ishan+(IFKabir);Computer+Science+Student+%7C+C%2B%2B+%26+Linux+Learner;Exploring+Systems+%26+Open+Source)](https://git.io/typing-svg)
 
 <hr style="border: 0; height: 1px; background: #eaecef; width: 85%; margin: 24px auto;" />
 
