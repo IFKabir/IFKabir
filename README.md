@@ -23,7 +23,7 @@ Currently learning **C++**, **Linux**, and **development fundamentals**.
 ## 🚀 Practice Grounds
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-F79F1B?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/IFKabir/)
-[![Hack The Box](https://img.shields.io/badge/HackTheBox-6AC259?style=for-the-badge&logo=hackthebox&logoColor=white)](https://codeforces.com/profile/ifkabir)
+[![Codeforces](https://img.shields.io/badge/Codeforces-IFKabir-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/ifkabir)
 ![OverTheWire Bandit](https://img.shields.io/badge/OverTheWire-Bandit-6F42C1?style=for-the-badge&logo=overwatch&logoColor=white)
 
 ---
