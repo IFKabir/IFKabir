@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" width="100%" alt="Ishan (IFKabir) — Linux & C++ • Learning by choice"/>
+  <img src="assets/banner.png" width="100%" alt="Ishan (IFKabir) — Linux & C++ • Learning by choice"/>
 </p>
 
 <hr style="border: 0; height: 1px; background: #eaecef; width: 85%; margin: 24px auto;" />
