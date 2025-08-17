@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" role="img" aria-label="Ishan (IFKabir) — Linux & C++ • Learning by choice">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#00F7FF"/>
+      <stop offset="100%" stop-color="#6B73FF"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="8" stdDeviation="10" flood-opacity="0.25"/>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="100%" height="100%" fill="url(#g)"/>
+  <rect x="8" y="8" width="1184" height="244" rx="18" ry="18" fill="rgba(255,255,255,0.10)" />
+
+  <!-- Headline converted to path for consistent calligraphic look -->
+  <g filter="url(#shadow)" fill="#ffffff" stroke="rgba(10,10,10,0.35)" stroke-width="2" paint-order="stroke">
+    <path d="M300 150 Q340 60 420 100 T540 140 Q600 180 660 120 T780 150 Q820 180 880 120" />
+    <!-- This is a placeholder path illustration. Replace with real path export from Inkscape for exact calligraphic text -->
+  </g>
+
+  <!-- Subheadline -->
+  <text x="50%" y="74%" text-anchor="middle"
+        font-family="Inter, Segoe UI, Roboto, Helvetica, Arial, sans-serif"
+        font-size="22" fill="#0A0A0A" opacity="0.92">
+    Linux &amp; C++ • Student by degree, learning tech by choice
+  </text>
+</svg>
