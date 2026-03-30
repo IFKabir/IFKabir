@@ -1,55 +1,81 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=41FDFE&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Ishan+(IFKabir);Computer+Science+Student+%7C+C%2B%2B+%26+Linux+Learner;Exploring+Systems+%26+Open+Source)](https://git.io/typing-svg)
+# Ishan
 
-<hr style="border: 0; height: 1px; background: #eaecef; width: 85%; margin: 24px auto;" />
+CS undergrad at RGIPT. I write code that runs on bare metal, talks to LLMs, and ships to browsers.  
+Not particularly attached to any one layer of the stack — I go where the interesting problems are.
 
-🎓 I'm a Computer Science & Engineering student at **RGIPT**, passionate about building and exploring technology.  
-Currently learning **C++**, **Linux**, and **development fundamentals**.
+---
 
-<hr style="border: 0; height: 1px; background: #eaecef; width: 85%; margin: 24px auto;" />
+### what i build
 
-## 🔧 Tech Stack & Tools
+**systems & low-level**
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Terminal](https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=gnometerminal&logoColor=white)
+Wrote a 32-bit x86 kernel from scratch — NASM assembly, GRUB multiboot, custom linker scripts, bootable ISO generation and tested on both QEMU and Bochs. Not a tutorial copy-paste, the build tooling is mine.
 
-<hr style="border: 0; height: 1px; background: #eaecef; width: 85%; margin: 24px auto;" />
+Also built a C++ data structures library under `stl_ext` — BST, AVL trees, red-black trees, all backed by a custom arena-style `NodePool` allocator. Has a full benchmark suite, Doxygen-generated docs, CI via GitHub Actions, and passes every edge case I could think of. Header-only, templated, and properly tested.
 
-## 🚀 Practice Grounds
+**ai & intelligent systems**
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-F79F1B?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/IFKabir/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/ifkabir)
-[![OverTheWire Bandit](https://img.shields.io/badge/OverTheWire-Bandit-000000?style=for-the-badge&logo=gnometerminal&logoColor=white)](https://overthewire.org/wargames/bandit/)
+Every project below was built with AI. Not vibe-coded — architected, directed, and shipped using AI as a force multiplier. I treat LLMs the way senior engineers treat junior devs: I know what I want, I know when the output is wrong, and I move 10x faster because of it.
 
-<hr style="border: 0; height: 1px; background: #eaecef; width: 85%; margin: 24px auto;" />
+Predictive energy dispatch optimizer — balances diesel generator costs against ESG carbon penalties using scipy's LP solver. Handles dirty sensor data with moving-average imputation and forecasts deficits 15–60 minutes ahead. Built for Energy-O-Thon 2026.
 
-## 🌱 Currently Working On
+AI-powered codebase intelligence platform — drop in a GitHub URL and it runs multi-tool security scans (Bandit, detect-secrets, Safety), scores code quality, auto-generates unit tests across frameworks, and provides AI-assisted documentation. React 19 + FastAPI + Ollama. The whole thing was scaffolded, iterated, and shipped in days, not weeks.
 
-- Learning advanced Linux and systems programming  
-- Strengthening DSA & C++  
-- Exploring open-source contribution  
-- Practicing CTFs
+AI-native news platform for the ET AI Hackathon — personalized feeds ranked by embedding similarity, conversational briefings powered by Llama 3.1, and a visual story-arc tracker that maps how events unfold over time using sentiment analysis. Next.js 16, FastAPI, LangChain, ChromaDB. Full-stack, fully functional, built at hackathon speed with AI pair programming the entire way.
 
-<hr style="border: 0; height: 1px; background: #eaecef; width: 85%; margin: 24px auto;" />
+**full-stack**
 
-## 🖥️ Terminal Preview
+All the AI projects above ship as complete products — not just backends with curl examples. React and Next.js frontends, one-click cross-platform setup scripts (`setup.sh` / `setup.bat`), proper error handling, and they actually run on someone else's machine.
 
-> A peek into my Linux setup using neofetch 🌌
+---
+
+### stack
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![x86 ASM](https://img.shields.io/badge/x86_ASM-6E4C13?style=flat-square&logo=assemblyscript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+
+---
+
+### github stats
 
 <p align="center">
-  <img src="assets/neofetch1.png" width="600" alt="Neofetch Screenshot"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=IFKabir&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&icon_color=58a6ff&title_color=58a6ff&text_color=c9d1d9" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IFKabir&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="165" />
 </p>
 
-<hr style="border: 0; height: 1px; background: #eaecef; width: 85%; margin: 24px auto;" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=IFKabir&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
+</p>
 
-## 📫 Connect With Me
+---
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ifk.ishanfalak@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IFKabir)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ifkabir)
+### terminal
 
-<hr style="border: 0; height: 1px; background: #eaecef; width: 85%; margin: 24px auto;" />
+<p align="center">
+  <img src="assets/neofetch1.png" width="600" alt="neofetch"/>
+</p>
 
-> ⚡ Thoughtfully built by Ishan
+---
+
+### elsewhere
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-1a1a1a?style=flat-square&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/IFKabir/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1a1a1a?style=flat-square&logo=codeforces&logoColor=1F8ACB)](https://codeforces.com/profile/ifkabir)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a1a?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/ifkabir)
+[![Email](https://img.shields.io/badge/Email-1a1a1a?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:ifk.ishanfalak@gmail.com)
+
+---
+
+<p align="center"><sub>i'd rather be writing code than writing this readme</sub></p>
