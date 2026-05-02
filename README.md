@@ -62,30 +62,6 @@ Not particularly attached to any one layer of the stack — I go where the inter
 
 </details>
 
-<details open>
-<summary><b>DevMind</b> — codebase intelligence platform</summary>
-<br>
-
-> Drop a GitHub URL — it runs multi-tool security scans (Bandit, detect-secrets, Safety), scores code quality, auto-generates unit tests across frameworks, and writes documentation. React 19 + FastAPI + Ollama. Scaffolded, iterated, and shipped in days, not weeks.
-
-</details>
-
-<details open>
-<summary><b>energy dispatch optimizer</b> — predictive load balancing</summary>
-<br>
-
-> Balances diesel generator costs against ESG carbon penalties using scipy's LP solver. Handles dirty sensor data with moving-average imputation and forecasts power deficits 15–60 minutes ahead. Built for Energy-O-Thon 2026.
-
-</details>
-
-<details open>
-<summary><b>ET NewsAI</b> — intelligence-first news platform</summary>
-<br>
-
-> Personalized feeds ranked by embedding similarity, conversational briefings powered by Llama 3.1, and a visual story-arc tracker that maps how events unfold using sentiment analysis. Next.js 16, FastAPI, LangChain, ChromaDB. Built at hackathon speed.
-
-</details>
-
 ---
 
 ### terminal
