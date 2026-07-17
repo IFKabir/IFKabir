@@ -5,8 +5,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/x86_kernel-from_scratch-0d1117?style=for-the-badge&labelColor=161b22" />
-  <img src="https://img.shields.io/badge/c++_library-published-0d1117?style=for-the-badge&labelColor=161b22" />
+  <img src="https://img.shields.io/badge/ZeroRing_OS-WASM_Terminal-0d1117?style=for-the-badge&labelColor=161b22" />
+  <img src="https://img.shields.io/badge/CPPX-C++_Library-0d1117?style=for-the-badge&labelColor=161b22" />
+  <img src="https://img.shields.io/badge/Slipstream-ML_Pipeline-0d1117?style=for-the-badge&labelColor=161b22" />
 </p>
 
 ---
@@ -44,21 +45,29 @@ Not particularly attached to any one layer of the stack — I go where the inter
 
 ---
 
-### currently working on
+### featured projects
 
 <details open>
-<summary><b>ZeroRing</b> — x86 kernel from scratch</summary>
+<summary><b>ZeroRing OS</b> — Browser-native cloud terminal</summary>
 <br>
 
-> Writing a **32-bit x86 kernel** in NASM assembly — GRUB multiboot, custom linker scripts, bootable ISO generation, tested on both QEMU and Bochs. Not a tutorial copy-paste, the build tooling is mine. Next up: interrupt handling and a basic VGA driver.
+> A cloud terminal running entirely in the browser. I compiled a freestanding C++ kernel to WebAssembly, enabling command parsing, pipes, and tab completion locally with **zero network round-trips**. The backend is a custom C++ WebSocket server with a PostgreSQL virtual filesystem and a Docker execution engine sandboxing 6 languages.
 
 </details>
 
 <details open>
-<summary><b>CPPX</b> — C++ data structures library</summary>
+<summary><b>CPPX</b> — High-performance C++ utility library</summary>
 <br>
 
-> A header-only, templated library under `stl_ext` — BST, AVL trees, red-black trees, all backed by a custom arena-style `NodePool` allocator. Full benchmark suite, Doxygen-generated docs, CI via GitHub Actions, and passes every edge case I could think of.
+> A C++23 header-only library extending STL capabilities. It uses a custom **arena allocator** with 4,096-node contiguous blocks, outperforming `std::set` by 1.7x on inserts. Features non-standard utilities like iterative tree rotations to prevent stack overflow and built-in Graphviz visualization export.
+
+</details>
+
+<details open>
+<summary><b>Project Slipstream</b> — F1 race prediction engine</summary>
+<br>
+
+> An end-to-end ML pipeline predicting F1 race outcomes across 15 seasons. Trained a Random Forest Regressor using a Chronological Time-Series Split to prevent look-ahead bias, reducing error by 33.8% over baseline. The 100-tree ensemble is exported as JSON and consumed by a compiled **C++ inference binary** for native-speed execution without Python dependencies.
 
 </details>
 
